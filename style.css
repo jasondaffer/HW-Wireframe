@@ -17,8 +17,9 @@ header {
 
     background: #ebebeb;
     color: #777777;
-    padding: 20px;
+    padding: 30px;
     margin-bottom: 10px;
+    margin-top: 10px;
     
 }
 
@@ -26,7 +27,7 @@ nav {
 
     background: #ebebeb;
     color: #777777;
-    padding: 20px;
+    padding: 30px;
     margin-bottom: 20px;
     
 }
@@ -36,6 +37,7 @@ section {
     width: 495px;
     padding: 20px 10px 10px 10px;
     background: #ebebeb;
+    color: #777777;
     margin-bottom: 20px;
 }
 
@@ -55,7 +57,7 @@ section {
 }
 
 #h123 {
-    margin-top: 20px;
+    margin-top: 10px;
     font-weight: bold;
 }
 
@@ -72,13 +74,15 @@ section {
 #aside1 {
     float: right;
     background: #ebebeb;
+    color: #777777;
     width: 350px;
     height: 250px;
 }
 
 #footer1 {
     background: #ebebeb;
+    color: #777777;
     clear: both;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
